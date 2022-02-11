@@ -8,7 +8,10 @@ const BasicInformation = () => {
       <div className="row">
         <div className="col">
           <Form.Label>Identification</Form.Label>
-          <DropdownItems title="--select type--" item={["item1", "item2"]} />
+          <DropdownItems
+            title="--select type--"
+            item={["Student", "Teacher", "Admin"]}
+          />
         </div>
       </div>
 
