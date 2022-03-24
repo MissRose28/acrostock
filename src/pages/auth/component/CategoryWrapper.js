@@ -11,8 +11,8 @@ const CategoryWrapper = () => {
             text="dark"
             source="https://d1amk1w0mr5k0.cloudfront.net/blog/wp-content/uploads/2018/08/GettyImages-802465010-1.jpg"
             head=""
-            title="School supplies"
-            info="kumuha ng mga bagay bagay"
+            title="General Supplies"
+            info="Ms. Lorem ipsum"
           />
         </div>
         <div className="col-lg-3 col-md-12 m-3">
@@ -22,7 +22,7 @@ const CategoryWrapper = () => {
             source="https://image.shutterstock.com/image-vector/set-sport-equipment-260nw-88951978.jpg"
             head=""
             title="Borrow Equipments"
-            info="Borrow anything for FREEEE!"
+            info="Ms. Lorem Ipsum"
           />
         </div>
       </div>
