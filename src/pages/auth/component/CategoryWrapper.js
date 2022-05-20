@@ -33,7 +33,7 @@ const CategoryWrapper = () => {
             text="dark"
             source="https://cdn.shopify.com/s/files/1/0063/5942/products/Natural_Kraft_5_8018467e-05e8-48eb-aed1-85433e491f5e_2000x.jpg?v=1624533003"
             head=""
-            title="Title"
+            title="School Supplies"
             info="the quick brown fox jumps over the lazy dog"
           />
         </div>
@@ -43,7 +43,7 @@ const CategoryWrapper = () => {
             text="dark"
             source="https://cdn.shopify.com/s/files/1/0063/5942/products/Natural_Kraft_5_8018467e-05e8-48eb-aed1-85433e491f5e_2000x.jpg?v=1624533003"
             head=""
-            title="Title"
+            title="Technical Supplies"
             info="the quick brown fox jumps over the lazy dog"
           />
         </div>
